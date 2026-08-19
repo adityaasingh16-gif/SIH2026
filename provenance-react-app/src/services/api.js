@@ -5,7 +5,7 @@
  * Connects the React SPA UI components directly to the Node.js / Express backend.
  */
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://sih2026-2.onrender.com/api';
 
 /**
  * 1. Health Check Endpoint
